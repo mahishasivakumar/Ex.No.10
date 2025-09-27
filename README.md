@@ -1,6 +1,6 @@
 # Ex.No.10
 
-## Future of Prompt Patterns in Content Creation
+##   FUTURE OF PROMPT PATTERNS IN CONTENT CREATION
 
 ## Date:
 ## Reg. No.
