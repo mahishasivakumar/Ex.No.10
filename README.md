@@ -43,9 +43,9 @@ such as reports, articles, case studies, newsletters, and infographics efficient
 ## 5.Generate Content
     Use the structured prompt to guide the creation of your content. You can do this manually       or with AI assistance.
 
+![WhatsApp Image 2025-10-03 at 2 44 27 PM](https://github.com/user-attachments/assets/05639771-1ea2-411c-ba33-98c79b73ca35)
 
-    ![WhatsApp Image 2025-10-03 at 2 44 27 PM](https://github.com/user-attachments/assets/b56653eb-9ee9-4be9-aac3-5c5031e88da1)
-
+    
 
 ## 5.Refine and Edit
    Check for clarity, accuracy, tone, grammar, and format. Adjust to make it professional and      audience-appropriate.
