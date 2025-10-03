@@ -6,12 +6,12 @@ Date: 03/10/2025
 Reg. No.: 212222040095
 Name: MAHISHA S
 ```
-### Aim
+### Aim:
 
 To use structured approaches, called prompt patterns, for creating professional and high-quality content 
 such as reports, articles, case studies, newsletters, and infographics efficiently and consistently.
 
-### Procedure
+### Procedure:
 
 ## 1.Identify Content Type
 
@@ -63,7 +63,7 @@ such as reports, articles, case studies, newsletters, and infographics efficient
    Check for clarity, accuracy, tone, grammar, and format. Adjust to make it professional and      audience-appropriate.
    
 
-### EXAMPLES OF PROMPT PATTERNS
+### EXAMPLES OF PROMPT PATTERNS:
 
 # 1. Reports
 
@@ -96,7 +96,7 @@ such as reports, articles, case studies, newsletters, and infographics efficient
 ---Another approach is to illustrate a process visually, highlight problems, solutions, and key results, with concise captions for each section.
 
 
-### Instructions
+### Instructions:
 
  1.Be specific about the content type, audience, and tone.
 
@@ -109,7 +109,7 @@ such as reports, articles, case studies, newsletters, and infographics efficient
  5.Maintain a consistent style and tone across multiple pieces.
  
 
-### Deliverables
+### Deliverables:
 
  1.Reports: Professional, structured, data-driven summaries.
 
@@ -122,7 +122,7 @@ such as reports, articles, case studies, newsletters, and infographics efficient
  5.Infographics: Short, visually appealing, and data-focused content.
  
 
-### Conclusion
+### Conclusion:
 
  Using prompt patterns simplifies content creation. It ensures efficiency, consistency, and  high quality, while helping the writer or AI focus on content rather than formatting. These patterns can be applied across industries and content types for professional results.
 
